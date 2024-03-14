@@ -5,3 +5,6 @@ It was simply done using node and express js, and in front-end it was done in pu
 
 Here is a link:
 http://ec2-13-60-7-52.eu-north-1.compute.amazonaws.com:3000/
+
+Here is a link for github:
+https://github.com/Mirazizbek701/EventCW
